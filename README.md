@@ -33,7 +33,7 @@ cat << EOF > site.yml
     http_proxy: http://proxy.xxxxxxxxx.co.jp:port_no/
     no_proxys: xxxxx.co.jp,yyyy.co.jp
   roles:
-    - { role: kouji-kojima.centos-rhel-ansible-init }
+    - { role: kouji-kojima.sample-ansible-el7-init }
 EOF
 ```
 
