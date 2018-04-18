@@ -1,5 +1,5 @@
-centos-rhel-ansible-init
-=========
+sample-ansible-el7-init
+=======================
 
 locale=LANG=ja_JP.utf8, timzone=Asia/Tokyo, proxy を 設定するロール。
 Role to set locale=LANG=ja_JP.utf8, timzone=Asia/Tokyo, proxy.
